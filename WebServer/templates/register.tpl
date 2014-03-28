@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Auth Page</title>
+    <title>Registration Page</title>
 </head>
 <body>
 <#if errorMsg??>
@@ -16,14 +16,14 @@
     <label for=username title="Username: ">
         <input id="username" type="text" name="username"/>
     </label>
-    <br />
+    <br/>
     <label for="password" title="Password: ">
         <input id="password" type="text" name="password"/>
     </label>
-    <input type="submit" value="Log in!" />
+    <input type="submit" value="Register!"/>
 </form>
 <div>
-    <img src="/kot.jpeg"/>
+    <img src="/kot3.jpeg"/>
 </div>
 </body>
 </html>

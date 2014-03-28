@@ -11,7 +11,7 @@ import java.io.Writer;
 import java.util.Map;
 
 /**
- * Created by Denis on 19.02.14.
+ * Created by uzzz on 19.02.14.
  */
 
 public class PageGenerator {

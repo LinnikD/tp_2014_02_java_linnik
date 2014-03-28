@@ -8,7 +8,8 @@
         <p>Server time: ${time}</p>
         <p>Your id on the server: ${userId}</p>
         You can go to <a href="/index" > main </a> or <a href="/quit"> Exit!</a>
-        <div><img src="/kot.jpeg"/>
+        <div>
+            <img src="/kot4.jpeg"/>
         </div>
     </body>
 </html>

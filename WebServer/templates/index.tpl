@@ -1,14 +1,15 @@
 <html>
-    <head>
-        <title>hello</title>
-    </head>
-    <body>
-        Welcome, user! Your sessionid = ${userId}
+<head>
+    <title>Main Page</title>
+</head>
+<body>
+Welcome, Anonymous!
 
-        <div>
-             You can go to <a href="/timer" > timer </a> or <a href="/quit"> Exit!</a>
-        </div>
-        <div><img src="/kot.jpeg"/>
-        </div>
-    </body>
+<div>
+    You can <a href="/reg" > register </a> or <a href="/auth"> login!</a>
+</div>
+<div>
+    <img src="/kot2.jpeg"/>
+</div>
+</body>
 </html>
